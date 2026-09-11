@@ -1,0 +1,1 @@
+{ "appId": "com.valleyrun.game", "appName": "Valley Run", "webDir": "dist", "backgroundColor": "#162927", "android": { "allowMixedContent": false }, "ios": { "contentInset": "never" } }
